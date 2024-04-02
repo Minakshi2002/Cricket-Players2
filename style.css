@@ -1,0 +1,42 @@
+*{
+    margin: 5px 5px 5px 5px;
+}
+.card img{
+    height:50vh;
+    width: 220px;
+}
+.button{
+    text-align: center;
+}
+.button a{
+    text-decoration: none;
+    color: black;
+}
+#aid{
+    height: 30vh;
+}
+.card-body{
+    height: 25vh;
+}
+.card{
+    margin: 0px 15px;
+}
+.carousel-inner{
+    width: 130vh;
+    margin: auto;
+}
+body{
+    background-color:black;
+    color: white;
+}
+.card:hover{
+    background-color:black;
+    color: white;
+}
+#footer:hover{
+    background-color:aqua;
+    color: black;
+}
+.R{
+    margin-left:35%;
+}
